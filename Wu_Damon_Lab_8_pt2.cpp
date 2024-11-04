@@ -37,7 +37,6 @@ int main(){
     cin >> num1 >> num2;
     cout << "twice the product of the number is: " 
             << doubleMultiply(num1, num2) << endl;
-    system("PAUSE");
     return 0;
     /*
     Enter two integers: 10 11
